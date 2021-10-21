@@ -2,6 +2,9 @@
 
 This repo contains day-wise resources for the workshop "data Analysis" for National Productivity Council by Funoppia
 
+![image](https://user-images.githubusercontent.com/31543368/138274554-f7d75955-563f-439f-a1d2-8436568a1dcc.png)
+
+
 
 Contact details
 
