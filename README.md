@@ -13,7 +13,10 @@ Day 1 :
 
 Basic of data analysis , python review , statistics 
 
-
 Day 2:
 
 Data preprocessing , data exploration using numpy , pandas , matplotlib
+
+Day 3:
+
+Matplotlib , Data Visualiztion , Data Analysis on Real dataset
